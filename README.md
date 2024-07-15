@@ -61,3 +61,5 @@ The Teacher Management System is a web application designed to manage teachers' 
 
 ## Screenshots
 
+![1](https://github.com/user-attachments/assets/05c613a4-eb9b-4957-a4aa-5ba4b4ebb5de)
+![2](https://github.com/user-attachments/assets/b1fe84ff-bdfa-493d-8357-7931e3e5f597)
