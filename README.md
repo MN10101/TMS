@@ -19,7 +19,7 @@ The Teacher Management System is a web application designed to manage teachers' 
 ## Setup Instructions
 1. **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/MN10101/TMS.git
     ```
 
 2. **Navigate to the project directory**
