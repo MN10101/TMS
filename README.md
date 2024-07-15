@@ -24,7 +24,7 @@ The Teacher Management System is a web application designed to manage teachers' 
 
 2. **Navigate to the project directory**
     ```bash
-    cd teacherManagementSystem
+    cd TMS
     ```
 
 3. **Configure the database**
